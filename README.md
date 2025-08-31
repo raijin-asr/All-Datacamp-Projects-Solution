@@ -8,4 +8,4 @@ Solution code of all projects of DataCamp (Solved by me)</br>
 Also Solution of Exam i Passed such as Python Data Associate, SQL Associate, etc.
 <hr>
 
-Ameer Sampang Rai @2025
+<i>Ameer Sampang Rai</i> @2025
